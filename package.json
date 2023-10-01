@@ -1,0 +1,19 @@
+{
+  "name": "funciones-lista-tareas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christgrant98/node-server.git"
+  },
+  "author": "Christian Garcerant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christgrant98/node-server/issues"
+  },
+  "homepage": "https://github.com/Christgrant98/node-server#readme"
+}
