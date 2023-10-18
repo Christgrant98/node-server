@@ -17,3 +17,4 @@ Con este programa puedes:
 4. Ver lista de tareas actual
 5. Salirse del programa
  
+Utilizar este programa te permitira optimizar el tiempo en el que demoras ingresando tareas, ademas es tan ligero que no ocupa ningún espacio de memoria y al no tener interfaz no tienes que realizar tantas acciones sino simplemente ingresar instrucciones
