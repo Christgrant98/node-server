@@ -1,4 +1,4 @@
-#¿Qué es mi producto y para que sirve?
+# ¿Qué es mi producto y para que sirve?
 Lista de tareas es un programa por consola que te permite gestionar una 
 lista de tareas.
  
@@ -7,7 +7,7 @@ Cada tarea debe contener:
 - Una descripción 
 - Estado: Completado o No completado
 
-#¿Cuáles son las funcionalidades más importantes y porque los usuarios las 
+# ¿Cuáles son las funcionalidades más importantes y porque los usuarios las 
 usarían?
 
 Con este programa puedes:
