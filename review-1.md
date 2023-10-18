@@ -7,8 +7,7 @@ Cada tarea debe contener:
 - Una descripción 
 - Estado: Completado o No completado
 
-# ¿Cuáles son las funcionalidades más importantes y porque los usuarios las 
-usarían?
+# ¿Cuáles son las funcionalidades más importantes y porque los usuarios las usarían?
 
 Con este programa puedes:
 
